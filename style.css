@@ -1,0 +1,42 @@
+.orange-bg{
+    background-color: #Fceae8;
+    border: none;
+    border-radius: 20px;
+}
+.container{
+    padding-bottom: 100px;
+    
+}
+.container h1{
+    color:goldenrod;
+
+}
+.container p{
+    color: gray;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.love{
+    border: none;
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    box-shadow:  5px 5px 10px gray;
+    
+}
+.buy-now-button{
+background-color: black;
+  color:#fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+
+  
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
